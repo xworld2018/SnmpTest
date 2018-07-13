@@ -10,9 +10,9 @@ public class Main {
 
         //snmpifType.main(ip, targetOid,community);
 
-        System.out.println("");
+        //System.out.println("");
         System.out.println("Hello World!");
-        System.out.println("");
+        System.out.println("xx");
 
        // SnmpWalk.snmpWalk(ip, community, targetOid);
         SnmpWalkAsyn.main(args);
